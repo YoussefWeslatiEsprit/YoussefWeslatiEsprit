@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Youssef Weslati</h1>
 <h3 align="center">Junior technology Consultant in Tunisia</h3>
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/T8Dhl1KPyzRqU/giphy.gif">
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/VbAFrrDVGAvZu/giphy-downsized-large.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=youssefweslatiesprit&label=Profile%20views&color=0e75b6&style=flat" alt="youssefweslatiesprit" /> </p>
 
